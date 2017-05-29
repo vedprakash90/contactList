@@ -1,0 +1,22 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "A simple mean app using angular2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "Angualr2"
+  ],
+  "author": "ved prakash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cons": "0.0.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.3"
+  }
+}
